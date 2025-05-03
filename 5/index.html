@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>お絵かきアプリ</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="tools">
+            <h2>ツール</h2>
+            <div class="tool-group">
+                <button id="brush" class="active">ブラシ</button>
+                <button id="eraser">消しゴム</button>
+                <button id="fill">塗りつぶし</button>
+                <button id="rectangle">矩形</button>
+                <button id="circle">円</button>
+                <button id="line">直線</button>
+            </div>
+            
+            <h2>色</h2>
+            <input type="color" id="colorPicker" value="#000000">
+            
+            <h2>太さ</h2>
+            <input type="range" id="sizeSlider" min="1" max="50" value="5">
+            <span id="sizeValue">5px</span>
+            
+            <h2>操作</h2>
+            <div class="action-group">
+                <button id="clear">全消去</button>
+                <button id="save">保存(PNG)</button>
+            </div>
+        </div>
+        
+        <div class="canvas-container">
+            <canvas id="drawingCanvas"></canvas>
+        </div>
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+</html>
