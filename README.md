@@ -6,6 +6,14 @@
 
 「Vibe Coding」とは、AIアシスタント（Amazon Q Developer CLI、Cline、Codex CLI、Claude Codeなど）を活用してコーディングを行う取り組みです。このリポジトリでは、様々なプログラミング課題に対してAIアシスタントがどのようなコードを生成するかを記録し、共有します。
 
+## 作成済みのノック一覧
+
+| ノック番号 | タイトル | リンク |
+|------------|---------|-------|
+| 5 | お絵かきアプリ | [ソースコード](/5/) / [デモ](https://moritalous.github.io/vibe-coding-100/5/) |
+| 6 | 2D格闘ゲーム | [ソースコード](/6/) / [デモ](https://moritalous.github.io/vibe-coding-100/6/) |
+| 7 | 2D格闘ゲーム（機能強化版） | [ソースコード](/7/) / [デモ](https://moritalous.github.io/vibe-coding-100/7/) |
+
 ## 収録されている課題例
 
 1. **電卓アプリ** - HTMLとJavaScriptで実装された電卓
