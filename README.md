@@ -13,6 +13,7 @@
 | 5 | お絵かきアプリ | [ソースコード](/5/) / [デモ](https://moritalous.github.io/vibe-coding-100/5/) |
 | 6 | 2D格闘ゲーム | [ソースコード](/6/) / [デモ](https://moritalous.github.io/vibe-coding-100/6/) |
 | 7 | 2D格闘ゲーム（機能強化版） | [ソースコード](/7/) / [デモ](https://moritalous.github.io/vibe-coding-100/7/) |
+| 8 | 2D格闘ゲーム（機能強化版2） | [ソースコード](/8/) / [デモ](https://moritalous.github.io/vibe-coding-100/8/) |
 
 ## 収録されている課題例
 
